@@ -1,7 +1,6 @@
 # Public-signatures-data-and-more
 
 This is a place where I post signatures, Cheat Engine tables, etc.
-<span style="color: red">Red text</span>
 
 ## Disclaimer
 
