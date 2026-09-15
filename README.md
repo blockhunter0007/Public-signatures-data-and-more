@@ -2,11 +2,7 @@
 
 This is a place where I post signatures, Cheat Engine tables, etc.
 
-> **Attribution required**
->
-> You must give credit to the author **blockhunter0007** when redistributing or using this work.
->
-> **License:** See [LICENSE](LICENSE).
+<span style="color: transparent">This text is invisible but selectable.</span>
 
 ## Disclaimer
 
