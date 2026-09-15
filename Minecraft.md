@@ -7,6 +7,7 @@ this contains useful information about Minecraft bedrock
 ## Reach
 
 Reach signature verified in 1.26.5x - 1.26.2x
+This has been removed due to credit stealing
 
 static reach offsets:
  - 1.26.50: 0xE6012AC
