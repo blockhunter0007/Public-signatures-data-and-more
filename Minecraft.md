@@ -24,5 +24,8 @@ static reach offsets:
  - 1.21.132: 0x8B969C0,
  - 1.21.131: 0x8B92BE0
 
-Note offsets and aobs are more stable since the compiler switch to clang
+Notes:
+ - offsets and aobs are more stable since the compiler switch to clang
+ - Respect the [license](LICENSE) of this project.
+ - This project belongs to blockhunter0007
 ---
