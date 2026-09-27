@@ -10,6 +10,7 @@ Reach signature verified in 1.26.5x - 1.26.2x
 This has been removed due to credit stealing
 
 static reach offsets:
+ - 1.26.52: 0xE6022AC
  - 1.26.51: 0xE6022AC
  - 1.26.50: 0xE6012AC
  - 1.26.45: 0xE60503C
