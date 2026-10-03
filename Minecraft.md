@@ -41,6 +41,7 @@ static reach offsets:
  - 1.21.120: 0x92F5EB8
 
 Notes:
+ - checkout the newest version [here](https://github.com/blockhunter0007/Public-signatures-data-and-more/).
  - offsets and aobs are more stable since the compiler switch to clang
  - Respect the [license](LICENSE) of this project.
  - This project belongs to blockhunter0007
